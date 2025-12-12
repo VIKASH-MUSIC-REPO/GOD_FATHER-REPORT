@@ -9,8 +9,8 @@ class Config(object):
     
     # Other Configs
     BOT_START_TIME = time.time()
-    OWNER    = int(os.environ.get("OWNER", "6258877205"))  # ⚠️ Required
-    SUDO = list(map(int, os.environ.get("SUDO", "6848318915").split()))  # ⚠️ Required
+    OWNER    = int(os.environ.get("OWNER", "8431887895"))  # ⚠️ Required
+    SUDO = list(map(int, os.environ.get("SUDO", "8086664327").split()))  # ⚠️ Required
     # Web Response Config
     WEBHOOK = bool(os.environ.get("WEBHOOK", True))
     PORT = int(os.environ.get("PORT", "8080"))
@@ -124,7 +124,7 @@ Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘ�
 
     ABOUT_MSG = """
 - 𝖬𝗒 𝖭𝖺𝗆𝖾 : <a href=https://t.me/{}>{}</a>
-- 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : @BRANDEDKING82
+- 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : @lll_GOD_FATHER_PAPA_lll
 - 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : Pyrogram
 - 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥
 - 𝖣𝖺𝗍𝖺𝖡𝖺𝗌𝖾 : 𝖬𝗈𝗇𝗀𝗈𝖣𝖡

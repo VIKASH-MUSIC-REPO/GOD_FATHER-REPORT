@@ -1,6 +1,6 @@
-<h1 align="center"><b>░▒▓█►─═ 𝐁𝐑𝐀𝐍𝐃𝐄𝐃 𝐌𝐀𝐒𝐒 𝐑𝐄𝐏𝐎𝐑𝐓 ═─◄█▓▒░</b></h1>
+<h1 align="center"><b>░▒▓█►─═ 𝗚𝗢𝗗 𝗙𝗔𝗧𝗛𝗘𝗥 𝐌𝐀𝐒𝐒 𝐑𝐄𝐏𝐎𝐑𝐓 ═─◄█▓▒░</b></h1>
 <p align="center">
-  <img src="https://te.legra.ph/file/474b7d0ea856852f80f8f.jpg" alt="BRANDEDMASSREPORT">
+  <img src="https://carder.top/imagens/1769158700693-50469224.jpg" alt="GODFATHERMASSREPORT">
 </p>
 
 
@@ -18,7 +18,7 @@
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://github.com/WCGKING)
+- » [𝐆𝐎𝐃 𝐅𝐀𝐓𝐇𝐄𝐓](https://github.com/VIKASH)
 - 
 
 - <h3 align="center">
@@ -26,17 +26,17 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/GOD_KI_DUNIYA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/SUKOON_BOT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/BRANDED_PAID_CC"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/GOD_KI_DUNIYA"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/BRANDRD_BOT)_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [GOD FATHET](https://github.com/VIKASH) ғᴏʀ [SUKOON ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/SUKOON_BOT)_</b>
 
